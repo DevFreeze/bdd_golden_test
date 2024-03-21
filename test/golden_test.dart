@@ -3,6 +3,7 @@
 
 import 'package:golden_toolkit/golden_toolkit.dart';
 
+@Tags(['slow'])
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
